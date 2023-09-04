@@ -21,6 +21,7 @@ Mvc5 ile Sıfırdan Admin Panelli Dinamik CV Sitesi kursu projem
 
 
 ## İletişim Site Sayfası
+Kullanıcıların site sahibine direk iletişim kurmasını sağlar.
 ![image](https://github.com/eliftilki/Mvc5-ile-Admin-Panelli-Dinamik-CV-Sitesi/blob/main/images/ileti%C5%9FimSite.png)
 ## Login Sayfası
 Admin işlemlerinin yapıldığı panele gidilmesini sağlar.
