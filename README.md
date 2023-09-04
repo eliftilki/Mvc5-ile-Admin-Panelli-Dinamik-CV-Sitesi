@@ -2,7 +2,7 @@
 Mvc5 ile Sıfırdan Admin Panelli Dinamik CV Sitesi kursu projem
 ## Tanıtım
 Projede veriler SQL veritabaı ile tutulmaktadır.
-Admin paneli sayesinde veriler kullanıcı tarafından düzenlenilebilir ve silinebilir.
+Admin paneli sayesinde veriler kullanıcı tarafından düzenlenilebilir,silinebilir ve yeni veriler eklenebilir.
 ## Hakkımda Site Sayfası
 ![image](https://github.com/eliftilki/Mvc5-ile-Admin-Panelli-Dinamik-CV-Sitesi/blob/main/images/Hakk%C4%B1mdaSite.png)
 
